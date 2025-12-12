@@ -1,0 +1,77 @@
+Escalper EMA 8_13_21
+
+EMAS 8 13 21 La estrategia de scalping más rentable que encontré en 10 años
+https://www.forexfactory.com/thread/896811-most-profitable-scalping-strategy-i-found-in-10
+Transcripción video de Youtube
+Estrategia de scalping de alta probabilidad, fácil de entender y seguir, de cinco minutos. Para quienes no entiendan qué es el scalping, básicamente significa que, en períodos cortos, buscamos entrar y salir del mercado muy rápidamente, con la esperanza de sacar 10, 15 o 20 pips del mercado en múltiples oportunidades a lo largo de la jornada, a diferencia de la negociación intradía, donde se puede consultar el gráfico de una hora, el de 4 horas o el diario. El scalping se centra en períodos cortos y buscamos entrar y salir varias veces al día, intentando obtener ganancias con objetivos de stop loss ajustados. Lo que voy a hacer ahora es darles el esquema de la estrategia aquí en la pizarra, pero luego pasaremos a los gráficos y les mostraré la configuración para las confirmaciones y todo lo que necesitan saber para que puedan avanzar. Pruebe esta estrategia y luego comience a operar con dinero real si así lo desea. Hay dos maneras posibles de salir. Les mostraré ambas cuando veamos las pantallas en blanco en un momento. La premisa básica es que esta es una estrategia de scalping que sigue la tendencia, lo que significa que seguimos la tendencia predominante, esperamos retrocesos y buscamos entrar al mercado en períodos cortos a medida que el mercado retrocede con la tendencia predominante. 
+ 
+Como con cualquier estrategia que opero, siempre busco la confirmación en el marco temporal más alto. En este ejemplo, si operamos con el gráfico de cinco minutos, tenemos nuestra oportunidad de confirmación, la llamo gráfico de anclaje. El gráfico de anclaje en esta estrategia de 5 minutos será el gráfico H1, el gráfico horario o el gráfico de 60 minutos, que determina en qué dirección operaremos. ¿Vamos a comprar o vender? Usé dos medias móviles exponenciales para darme una indicación de la dirección del mercado. Observo la media móvil exponencial de ocho y la de veintiuno. Si no entiende qué son las medias móviles, consulte mi otro video sobre eso, que hicimos hace un tiempo. Necesitamos ver la dirección de estas medias móviles. Aquí pueden ver que la media móvil de ocho está por debajo de la de veintiuno, lo que significa que solo nos interesa vender este mercado. Si la media móvil de ocho estuviera por encima de la de veintiuno, solo estaríamos interesados en comprar. Ahora también necesitamos ver el precio por encima o por debajo de las medias móviles. Puede que tenga el 8 por debajo, pero el precio sube aquí porque las medias móviles se retrasan; aún no se han cruzado. Necesitamos ver el precio en el lado derecho de las medias móviles para confirmar la dirección de la tendencia y, de hecho, lo que podemos buscar. Aquí, en las compras a corto plazo, solo nos interesan las oportunidades de venta, así que ahora analizamos en detalle nuestro gráfico de 5 minutos. Aquí tenemos las medias móviles de 8, 13 y 21. Lo que buscamos es ver cómo estas empiezan a cambiar y se despliegan en una dirección específica. Deben estar bien desplegadas, lo que confirma que buscamos entrar en esta operación, pero esperamos un retroceso. Como pueden ver, el mercado ha subido, ha comenzado a desplegarse y ha vuelto a bajar. Buscamos un retroceso y, pacíficamente, buscamos un retroceso hacia la media móvil exponencial de 8 en el gráfico de 5 minutos. Por ejemplo, si este mercado retrocediera y tocara la media móvil de 8, esta sería nuestra barra de activación. Esta barra sigue siendo válida siempre que el precio no cierre por encima de la media móvil de 21. Si lo hace, la operación está... Todo esto quedaría mucho más claro cuando veamos las pantallas. Ahora tenemos nuestra barra de activación. Hemos tocado la media móvil de 8. Esta es nuestra barra de activación. Ahora buscamos entrar si retrocede en la dirección de la tendencia predominante. Lo que hacemos es mirar hacia atrás, contar cinco velas y buscar el punto más bajo de esas cinco velas. Aquí tenemos uno, dos, tres, cuatro y cinco. La vela de Loess está aquí, tres pips, y esa será nuestra entrada. Es muy fácil de entender. De hecho, si el mercado prueba y luego cuestionamos o confirmamos la dirección, entraremos en nuestra posición corta 3 pips por debajo de la más baja de las cinco velas anteriores. 
+ 
+
+Al entrar en cualquier operación, siempre debemos buscar la forma de salir, incluso si nos equivocamos. De vez en cuando, así que me detendré. Estará tres pips por encima de la barra de activación, el máximo de la barra de activación, así que el máximo de la barra de activación está aquí. Así que nuestro stop estará tres pips por encima, así que sería más los pips una vez que haya establecido su riesgo inicial. Consideramos nuestro primer objetivo de toma de ganancias. Nuestro primer objetivo de toma de ganancias será 1 veces el riesgo. Bien, entonces 1 vez el riesgo será nuestro primer objetivo de toma de ganancias. 1 3. Salir de nuestra
+
+
+De vez en cuando, así que me detendré. Estará tres pips por encima de la barra de activación, el máximo de la barra de activación, así que el punto más alto de la barra de activación está aquí. Así que nuestro stop estará tres pips por encima, así que sería más los pips una vez que haya establecido su riesgo inicial. Consideramos nuestro primer objetivo de toma de ganancias. Nuestro primer objetivo de toma de ganancias será 1 veces el riesgo. Bien, entonces 1 veces el riesgo será nuestro primer objetivo de toma de ganancias. 1 3. Salimos de nuestra operación con el 50%, movemos el saldo del 50% al punto de equilibrio y solo les queda el 50% en el mercado para el TP 2, que será el doble del riesgo. De hecho, este mercado vuelve a bajar, así que el TP 2 es obviamente la diferencia entre el precio de entrada y el stop. Así que su TP 1 B baja aquí y su TP 2 estaría bajando en algún lugar. Ahora hay dos maneras de salir de esta estrategia. Quiero que se vayan y prueben ambas. Utilizo ambos métodos: uno consiste en salir en puntos definidos; la otra estrategia de salida consiste en salir del segundo gráfico, el segundo 50%, operando detrás de la vela más baja de las tres velas anteriores. Esto se aclarará mucho al pasar a las pantallas. Ahora vamos allí y les mostraré exactamente cómo encaja todo. Bien, aquí estamos en las pantallas de Reglas de Interacción. Ahora les mostraré las reglas de interacción para entrar en una operación. El segundo método que buscamos también les mostrará un par de maneras de salir de la operación. Como con cualquier estrategia que deseen implementar en el mercado, les sugiero que hagan pruebas retrospectivas de la estrategia para saber cómo funciona y estar mejor preparados para afrontar algunas rachas perdedoras, ya que, de hecho, en la estrategia tendremos un período perdedor. Vamos directo al grano. Como mencioné en la pizarra. Esta es una estrategia de scalping que sigue la tendencia. Primero, necesitamos confirmar la dirección de la tendencia, y lo hacemos observando el gráfico de mayor plazo. Si operamos con el gráfico de 5 minutos, buscaremos la confirmación en el gráfico de anclaje, que en este caso será el gráfico de una hora. Usamos las EMA de equipo: una es la EMA de ocho minutos y la otra es la EMA de 20 minutos. Aquí pueden ver la EMA de ocho minutos en rojo apuntando hacia abajo y por debajo de la EMA de 21 minutos. Esto significa que solo buscamos operaciones de venta.
+
+ 
+
+A la derecha de la pantalla, la EMA apunta hacia arriba y está por encima. El precio de la EMA de 21 minutos está por encima de ambas EMA, por lo que solo buscamos operaciones de compra. Observen la diferencia en este gráfico de anclaje: el precio se ha movido por encima de las medias móviles, lo que significa que no hay operaciones. El precio debe estar en el lado derecho de la pantalla. Medias móviles en la dirección de la tendencia. Aquí, a la derecha de la pantalla, verá que el precio se ha movido por debajo de las medias móviles, lo que básicamente significa que no se está configurando ninguna operación. El precio debe estar a la derecha de las medias móviles en la dirección de la tendencia.
+
+ 
+
+ Una vez confirmada la dirección de la tendencia, en la salida buscamos solo operaciones de compra. El precio está muy por encima de las medias móviles. Analizamos el gráfico de cinco minutos.
+
+ 
+ En el gráfico de operaciones, observamos las medias móviles de 8, 13 y 21, que se abren en abanico en la dirección del marco temporal superior. Aquí verá que se abren en abanico al alza. El precio también sube con facilidad y los precios siguen avanzando. Verá que vuelve a bajar y toca la media móvil exponencial (EMA) de 8.
+
+ 
+
+ Esta es ahora nuestra barra de activación. Lo que haremos ahora es contar hacia atrás las 5 velas anteriores. La barra de activación y buscamos la altura de oscilación local. Tenemos 1, 2, 3, 4 y 5. 
+ 
+
+Claramente, nuestro máximo más alto de esas 5 velas será nuestra entrada. Así que vamos a colocar un stop de compra 3 pips por encima de esta vela en particular. Nuestro stop se mantendrá 3 pips por debajo del mínimo de la barra de activación. 
+ 
+
+Ahora que hemos establecido nuestro riesgo inicial, podemos establecer nuestro primer objetivo de toma de ganancias, que será 1 vez el riesgo, y veremos que los mercados suben y, por pura casualidad, han alcanzado nuestra entrada.
+
+ Ahora estamos en esta operación y sube hasta nuestro primer objetivo de ganancias, donde cerramos el 50% de la operación y movemos el saldo al punto de equilibrio. 
+ 
+Luego, podemos establecer nuestro segundo objetivo de ganancias, que será el doble del riesgo inicial, que estaría ahí arriba. Y, efectivamente, los precios suben para alcanzar el objetivo de toma de ganancias. Esta es una operación secundaria.
+ 
+
+
+ Así que ahora estamos viendo Una posible operación de venta es exactamente igual a una operación de mercado, pero a la inversa.
+
+
+ 
+
+ En el gráfico de ancla, el gráfico de una hora, verá que el precio está muy por debajo de las medias móviles de 8 y 21. Las medias móviles de 8 están por debajo de 21 y los precios están por debajo de ambas, lo que significa que solo buscamos operaciones de venta. Luego, profundizamos en el gráfico de 5 minutos. Vemos las medias móviles de 8, 13 y 21, bien distribuidas en la dirección de la tendencia predominante en el gráfico de ancla. Buscamos una operación de venta. Buscamos un retroceso hacia la media móvil de 8. Efectivamente, hay un retroceso hacia hay un retroceso hacia la media móvil de 8.
+
+ 
+
+Esta es ahora nuestra barra de activación, así que necesitamos contar las 5 velas anteriores para buscar el mínimo anterior o el mínimo más bajo de las cinco velas anteriores. 1, 2, 3, 4, 5. El mínimo más bajo está ahí, así que 3 pips por debajo del mínimo más bajo, tendríamos nuestro stop de venta una vez que hayamos establecido dónde vamos a salir de la operación. 
+
+ 
+Sabemos adónde vamos. Para colocar nuestro stop, nuestro stop se colocará 3 pips por encima de la barra de activación. Este es nuestro riesgo inicial. Una vez que tenga su riesgo inicial, puede establecer su primer objetivo de ganancias, que sería 1 veces el riesgo, y estará ahí abajo.
+
+ 
+
+ De hecho, si el precio baja, se lleva el primer objetivo de ganancias. Salimos la mitad de la posición y movemos el saldo de la operación al punto de equilibrio.
+ 
+
+ Luego, podemos establecer nuestro objetivo de toma de ganancias 2, que sería 2 veces el riesgo, y este se colocará ahí abajo. Como es una presentación, bajamos y retiramos el objetivo de toma de ganancias. 
+
+ 
+Ahora bien, estos ejemplos funcionaron porque es una cuestión de gustos personales. Naturalmente, una vez que haya realizado las pruebas retrospectivas, tendrá más confianza para llevar esto al mercado real con su dinero real. Con este método, hemos salido de la operación en dos partes: salidas definidas. Otra forma que recomiendo considerar para operar con esta estrategia es usar un rastro. Un rastro básicamente significa que... Seguir el precio, lo que básicamente te permitirá mantener la operación durante mucho más tiempo si la tendencia se convierte en un movimiento mucho más fuerte. Así que cerramos la operación en dos partes: salimos del 50% en el punto de equilibrio 1 y luego salimos del segundo 50% con un seguimiento. Déjame mostrarte exactamente a qué me refiero. Ejemplo: Bien, aquí tenemos un precio que está subiendo. Supongamos que nuestro primer objetivo de ganancias estaba aquí.
+
+
+ 
+ Ahí es donde salimos del primer 50% y nuestro stop estaba en el punto de equilibrio. Ahora, en el punto de equilibrio, vamos a operar sin riesgo. El 50% de la operación sigue en el mercado. El mercado sube. Seguiremos el mínimo de las tres velas anteriores. 
+ 
+Como ves, a medida que el precio sube, contamos tres velas, una, dos, tres, y el stop sube por debajo de esa vela: tres pips y de nuevo, subiendo una, dos, tres. 
+ 
+ 
+Ahí es donde... Sube y sube de nuevo, uno, dos, tres, así que el stop se negocia detrás del mínimo de la tercera vela. Si el mercado realmente quiere entrar en una tendencia fuerte, estaremos en esa operación durante más tiempo, uno, dos, tres, y sube de nuevo, uno, dos, tres, y finalmente retrocede y elimina el stop, donde salimos de la segunda mitad de la operación, el segundo 50%,
+ 
+
+ y nos hemos mantenido en la operación mucho más tiempo, sacando mucho más del mercado, siguiendo detrás de la tercera vela, el mínimo de la tercera vela en caso de una compra. Y, por supuesto, lo contrario completo si estuvieras vendiendo, estaría siguiendo detrás del máximo de la tercera vela con un margen de tres pips. Espero que te haya resultado útil y fácil de entender. Ahora puedes hacer algunas pruebas retrospectivas para que te sientas cómodo aplicando esta estrategia en el entorno real con tu dinero duramente ganado. Si quieres aprender más sobre la estrategia de scalping, otras estrategias de scalping u otras estrategias en general, haz clic en el enlace de abajo. Antes de irnos, solo quiero compartirles un pequeño secreto: algunos de ustedes saben que el próximo viernes se publican las nóminas no agrícolas. Para quienes no sepan qué es, es básicamente la publicación de datos económicos más importante del mes. Representa el crecimiento del empleo en Estados Unidos y tiene el potencial de impulsar los mercados, algo que podemos aprovechar este mes. Por primera vez, en cuanto al acceso a la sala de operaciones de Signals Calm, solo es necesario registrarse en el sitio, por lo que no se requiere ningún tipo de pago. La razón por la que hacemos esto es porque queremos mostrarles un evento en vivo y en tiempo real para que experimenten la comunidad de Forex Signal Calm. Como dije, no tienen nada que hacer aparte de registrarse en Forex Signals Calm. Les enviaremos un enlace por correo electrónico justo antes del evento de la FIDE, antes de que comience el evento. Así que estén atentos a su bandeja de entrada hasta entonces. ¡Felices operaciones y buena suerte!
