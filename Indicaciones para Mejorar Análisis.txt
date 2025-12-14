@@ -1,0 +1,123 @@
+Necesito que completes algunos analisis, que son claves para la estrategia que estoy creando.
+Te dejo los detalles, de lo que yo creo que sería necesario analizar con mas exactitud.
+
+HT 7 cual es el movimiento despues de neutro (M1/756, M5/120)
+         Si vela previa allcista, si vela previa bajista
+
+          Falto estudiar cuando el precio presenta consolidacion de de varias velas mas pequeñas que el promedio (ya sabemos cual es el promedio)  que ocurre con el rompimiento, de pende de la dirección de las velas previas?
+ se relaciona con la direccion que tenia HullTrend.
+      
+
+HullTrend 10 velas neutras en menor cantidad 
+
+---------------------------------
+
+
+
+DIRECCIÓN VELAS - PATRONES CONSECUTIVOS
+
+ANÁLISIS TAMAÑO VELAS
+Esta muy bien la medicíon de los parametros estadisticos pero ademas para la estrategia que estoy creando es muy importante conocer el tamaños de los grupos mas numerosos
+Para mi es importante saber que tamaño tiene el  agrupamiento de un cierto numero de vela
+ me refiero a  que por ejemplo es muy util conocer datos como Rachas de 
+
+N° de velas   Cantidad        %     
+13 velas        120        -      x%
+15 velas           30       -      x% 
+
+
+
+
+M1
+Velas agrupadas durante tendencia marcada por Hulltrend  considerar  número de velas y pips totales del movimiento
+2 a 3 --
+2 a 4
+2 a 5
+2 a 6
+2 a 7
+
+3 a 4
+3 a 5
+3 a 6
+3 a 7 
+
+4 a 5
+4 a 6
+6 a 7
+
+7 a 10
+11 a 15
+16 a 20
+21 a 25
+
+Lo mismo para M5, M15, M30, H1
+
+ANÁLISIS LONGITUD TENDENCIAS HULTREND
+=======================================================================
+
+--- HullTrend Período 7 ---
+
+M1:
+  Tendencia Alcista - Promedio: 3.1 velas, Máximo: 24  (muy bien)
+  Tendencia Bajista - Promedio: 3.1 velas, Máximo: 29  (Muy bien)
+
+Mejorar y agregar al analisis
+
+*  Necesito que medites esto e intentes hacer el mismo analisis anterior.
+   PIENSA CUIDADOSAMENTE COMO IMPLEMENTAR LO SIGUIENTE
+Patrones consecutivos.
+Creo que en este analisis deben considerar retrocesos normales en las tendenciasde impulso
+por ejemplo avanza 3 velas, retrocede 2, continua 3 o + velas en dirección del impulso inicial.
+
+Claramente eso configura tendencias de mayor cantidad de velas y pips totales
+Aqui se puede analizar el tamaño de los retrocesos y el avance total de una tendencia normal. Las tendencias normales avanzan y retroceden, pero el movimiento de retroceso es menor que el primer impulso y el segundo impulso llega mas lejos que el primero.
+
+Si hay un impulso de x velas y un retroceso de x velas, pero ese retroceso va mas alla que el primer impulso, eso es una reversion, no un retroceso dentro de una tendencia normal, entonces se debe considerar que ese retroceso es el inicio de una nueva tendencia.
+ 
+
+
+ANÁLISIS POR HORA (reparar)
+=============================================================================
+Top 10 Horas Más Alcistas:
+Traceback (most recent call last):
+  File "C:\TradingAnalysis\Analisis_Martim_Completo.py", line 614, in <module>
+    main()
+    ~~~~^^
+  File "C:\TradingAnalysis\Analisis_Martim_Completo.py", line 604, in main
+    analyze_hour_patterns(df)
+    ~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "C:\TradingAnalysis\Analisis_Martim_Completo.py", line 476, in analyze_hour_patterns
+    print(f"  {row['Hour']:02d}:00 - {row['Pct_Alcista']:.1f}% alcista ({row['Total']:,} velas)")
+              ^^^^^^^^^^^^^^^^^
+ValueError: Unknown format code 'd' for object of type 'float'
+
+C:\TradingAnalysis>python Analisis_Martim_Completo.py Martim_Data_EURUSD_2023.12.11.csv
+===============================================================================
+
+ANÁLISIS RATIOS CUERPO/MECHA
+==============================
+--- M1 ---
+Velas Alcistas - Ratio Body/MechaUp: 2.83
+Velas Alcistas - Ratio Body/MechaDn: 2.53
+Velas Bajistas - Ratio Body/MechaUp: 2.17
+Velas Bajistas - Ratio Body/MechaDn: 2.35
+ Muy bin el analisis pero ademas tratar de identificar Grupos 
+mas significativos, para tratar de enfocacar la estrtegia
+
+2. VOLATILIDAD (Tamaño promedio velas):
+
+   Mayor volatilidad: H1 (9.16 pips)
+   Menor volatilidad: M1 (1.46 pips)
+   Identificar Grupos o segmentos mas importantes
+
+6. PATRONES IDENTIFICADOS:
+
+   
+   b) HullTrend genera tendencias MUY CORTAS: 3.2 velas promedio
+      → Indicador de alta frecuencia, cambios rápidos ( Hay que identifiar la longitud real incorporando los retrocesos
+
+
+   e) Mechas muy pequeñas en M1 (~0.3 pips)
+      → Velas de M1 dominadas por cuerpo, pocas mechas ( es necesario medir ademas en porcentaje para comparar entre Time frames)
+
+En todo lo que sea comparar tamaño y camtidades muy disperas habria que agregar el concepto estadistico de moda y ojala intentar  agrupar lo mas significativo
