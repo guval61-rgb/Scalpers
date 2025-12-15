@@ -1,0 +1,1132 @@
+Esquema de Informe MARTIN FINAL 
+
+===================================================================================
+INFORME MEJORADO ANÁLISIS MARTIM
+===================================================================================
+Agregar al inicio el Analisis detallado de velas  que se intento hacer en el:  INFORME EXHAUSTIVO ANÁLISIS MARTIM
+
+===================================================================================
+TIMEFRAME: M1
+===================================================================================
+El informe del tamaño de la vela debe ser para cada time frame, ya que en cada uno el tamaño de la vela es distinto
+
+Hay un cuadro que hiciste en otro intento de informe lo encuantro genial,  no se si lo puedes volver a usar o sigues con el cuadro que generaste, para la sección:
+******
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 7 - M1
+───────────────────────────────────────────────────────────────────
+
+   Rango |   Cantidad |       %    |  Pips Prom |   Pips Med |   Pips Max
+------------+---------------+----------+----------------+---------------+---------------+
+     2-3     |    265,421 |   38.1% |      2.92p     |        2.10p  |      88.90p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12
+****** 
+Que tambienes un buen cuadro- Te lo dejo para que los compares y decidas cual es mejor.*******
+4. VELAS CONSECUTIVAS MISMA DIRECCIÓN - DISTRIBUCIÓN DETALLADA
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ Velas |   Frecuencia | Porcentaje |  Acumulado
+-------+--------------+------------+-----------
+     1 |      346,425 |     49.73% |     49.73%    ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13 +
+     2 |      172,448 |     24.76% |     74.49%
+     3 |       86,336 |     12.39% |     86.89%
+     4 |       43,795 |      6.29% |     93.17%
+     5 |       22,493 |      3.23% |     96.40%
+     6 |       11,635 |      1.67% |     98.07%
+     7 |        6,051 |      0.87% |     98.94%
+     8 |        3,261 |      0.47% |     99.41%
+     9 |        1,752 |      0.25% |     99.66%
+    10 |          981 |      0.14% |     99.80%
+    11 |          546 |      0.08% |     99.88%
+   ... |          ... |        ... |    100.00%
+************************************************* Perdonalmente prefiero este cuadro. Pero te dejola decisi+on a ti
+
+
+───────────────────────────────────────────────────────────────────────
+1. TAMAÑOS DE VELAS (High-Low en pips)  y (cuerpo de vela Apertura y cierre) por time frame Separado
+───────────────────────────────────────────────────────────────────────
+Tamaño Open Close
+GENERAL:
+  Promedio:  
+  Mediana:  
+  Moda 
+  Desv.Std:  
+  Mínimo:  
+  Máximo:    
+ 
+
+VELAS ALCISTAS (320,617 velas, 46.0%):
+  Promedio: 1.53 pips
+  Mediana:  1.20 pips
+  Moda  :
+  Mínimo:  
+  Máximo: 
+
+VELAS BAJISTAS (375,943 velas, 54.0%):
+  Promedio:  
+  Mediana:  
+  Moda  :
+  Mínimo:  
+  Máximo: 
+
+PERCENTILES:  Esto no lo entendi y cual seria su utilidad??
+  P10: 0.40 pips
+  P25: 0.70 pips
+  P50: 1.10 pips
+  P75: 1.80 pips
+  P90: 2.80 pips
+  P95: 3.70 pips
+  P99: 6.40 pips
+2.Tamaño incluyendo MECHAS SUPERIOR E INFERIOR (en pips)
+───────────────────────────────────────────────────────────────────────
+
+ Cuerpo y mechas
+ Tamaño Total  Vela
+  Promedio:  
+  Mediana:  
+  Moda  :
+  Mínimo:  
+  Máximo: 
+
+MECHA SUPERIOR
+  Promedio:  
+  Mediana:  
+  Moda  :
+  Mínimo:  
+  Máximo: 
+
+
+MECHA INFERIOR:
+  Promedio:  
+  Mediana:  
+  Moda  :
+  Mínimo:  
+  Máximo: 
+
+VELAS ALCISTAS - Mechas:
+  Superior: 0.33 pips (mediana 0.20)
+  Inferior: 0.31 pips (mediana 0.10)
+
+VELAS BAJISTAS - Mechas:
+  Superior: 0.30 pips (mediana 0.10)
+  Inferior: 0.34 pips (mediana 0.20)
+
+3. RATIOS CUERPO/MECHA
+────────────────────────────────────────────────────────────────────────────────────────────────────
+
+VELAS ALCISTAS:
+  Body/MechaUp: 2.83 (mediana 1.00)
+  Body/MechaDn: 2.53 (mediana 0.75)
+
+VELAS BAJISTAS:
+  Body/MechaUp: 2.17 (mediana 0.33)
+  Body/MechaDn: 2.35 (mediana 0.60)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M1 PERÍODO 7
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 756
+
+Origen vela neutra:
+  Después de vela alcista: 138 (18.3%)
+  Después de vela bajista: 618 (81.7%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 204 (27.0%)
+  Bajista: 552 (73.0%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 57 (41.3%)
+  Revierte bajista: 81 (58.7%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 147 (23.8%)
+  Continúa bajista: 471 (76.2%)
+
+Este analisis debe ser hecho en cada time frame.
+***********  LO QUE SIGUE A CONTINUACION ES EL "INFORME MEJORADO ANÁLISIS MARTIM"*************
+AQUI DECIDES TU, SI HACES EL INFORME DE LOS TAMAÑOS DE VELAS EN LA PRIMERA PARTE DEL INFORME,
+o  LO INCLUYES EN EL TIME FRAME CORRESPONDIENTE COMO ESTA ESTRUCTURADO
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M1 PERÍODO 10
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 380
+
+Origen vela neutra:
+  Después de vela alcista: 89 (23.4%)
+  Después de vela bajista: 291 (76.6%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 109 (28.7%)
+  Bajista: 271 (71.3%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 36 (40.4%)
+  Revierte bajista: 53 (59.6%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 73 (25.1%)
+  Continúa bajista: 218 (74.9%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS CONSOLIDACIONES - M1
+───────────────────────────────────────────────────────────────────
+
+Promedio tamaño vela: 1.46 pips
+Umbral consolidación: 1.02 pips (70% del promedio)
+Velas pequeñas: 321,198 (46.1%)
+
+Consolidaciones de 3+ velas: 29,431 *******    Detallar: +3v , +4v, +5v, +6v, +7v, +8v, +9v, 10v
+
+Dirección ROMPIMIENTO:
+  Alcista: 14,385 (48.9%)
+  Bajista: 15,046 (51.1%)
+
+Consolidación durante HullTrend ALCISTA → Rompe:
+  Alcista: 7,395 (48.7%)
+  Bajista: 7,781 (51.3%)
+
+Consolidación durante HullTrend BAJISTA → Rompe:
+  Alcista: 6,982 (49.0%)
+  Bajista: 7,260 (51.0%)
+
+Tamaño promedio vela rompimiento: 1.52 pips (1.0x promedio)
+
+───────────────────────────────────────────────────────────────────
+RACHAS ESPECÍFICAS - M1
+───────────────────────────────────────────────────────────────────
+
+    Rango Velas |   Cantidad |   Porcentaje
+---------------------+---------------+-----------------
+          13 velas  |        177      |        0.03%  ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13+
+          15 velas  |         65       |        0.01%
+    20-25 velas  |         52       |        0.01%
+    26-30 velas  |         14       |        0.00%
+   31-100 velas |           1       |        0.00%
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 7 - M1
+───────────────────────────────────────────────────────────────────
+
+   Rango |   Cantidad |       %    |  Pips Prom |   Pips Med |   Pips Max
+------------+---------------+----------+----------------+---------------+---------------+
+     2-3     |    265,421 |   38.1% |      2.92p     |        2.10p  |      88.90p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12
+     2-4     |    349,045 |   50.1% |      3.85p     |        2.80p  |    122.60p
+     2-5     |    399,890 |   57.4% |      4.43p     |         3.10p |    166.50p
+     2-6     |    432,307 |   62.1% |      4.81p     |         3.20p |    251.80p
+     2-7     |    453,412 |   65.1% |      5.06p     |         3.30p |    267.80p    
+     3-4     |    199,134 |   28.6% |      3.22p     |         2.30p |     92.90p
+     3-5     |    249,979 |   35.9% |      4.08p     |         2.80p |    151.70p
+     3-6     |    282,396 |   40.5% |      4.63p     |         3.10p |    237.00p
+     3-7     |    303,501 |   43.6% |      5.00p     |         3.20p |    253.00p   
+     4-5     |    134,469 |   19.3% |      3.46p     |         2.30p |    143.20p 
+     4-6     |    166,886 |   24.0% |      4.32p     |         2.90p |    235.90p
+     4-7     |    187,991 |   27.0% |      4.89p     |         3.10p |    251.90 
+    7-10    |     48,997  |    7.0%  |      6.21p     |         4.00p |    118.10p
+   11-15   |      8,709   |    1.3%  |      7.59p     |         4.70p |    129.00p
+   16-20   |      1,010   |    0.1%  |      8.16p     |         4.95p |     73.90p
+   21-25   |            83   |    0.0%  |      6.71p     |         4.90p |     14.90p
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 10 - M1
+───────────────────────────────────────────────────────────────────
+
+   Rango |   Cantidad |          %  |  Pips Prom |   Pips Med |   Pips Max
+------------+---------------+-----------+----------------+---------------+---------------
+     2-3     |    238,511 |   34.2%  |      2.97p      |      2.20p    |    107.80p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12
+     2-4     |    322,662 |   46.3% |      4.01p       |      3.00p    |    167.90p
+     2-5     |    386,046 |   55.4% |      4.80p       |      3.50p    |    183.90p
+     2-6     |    427,834 |   61.4% |      5.34p       |      3.80p    |    202.10p
+     2-7     |    456,201 |   65.5% |      5.71p       |      3.90p    |    206.80p
+     3-4     |    189,991 |   27.3% |      3.19p       |      2.30p    |    156.10p
+     3-5     |    253,375 |   36.4% |      4.26p       |      3.00p    |    172.10p
+     3-6     |    295,163 |   42.4% |      4.99p       |      3.50p    |    190.30p
+     3-7     |    323,530 |   46.4% |      5.49p       |      3.70p    |    190.30p
+     4-5     |    147,535 |   21.2% |      3.41p       |      2.40p    |    100.20p
+     4-6     |    189,323 |   27.2% |      4.41p       |      3.00p    |    125.80p
+     4-7     |    217,690 |   31.3% |      5.09p       |      3.40p    |    177.90p
+    7-10    |      69,757 |   10.0% |      6.18p       |      4.00p    |     110.10p
+   11-15   |      15,550 |     2.2% |      7.69p       |      4.80p    |     114.20p
+   16-20   |        2,031 |     0.3% |      8.06p       |      4.90p    |       59.80p
+   21-25 |             247 |     0.0% |      8.04p       |        4.60p  |       63.60p
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M1 HT7
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+ Total: 75,299
+  Longitud promedio: 4.3 velas
+  Longitud mediana:  4 velas
+  Pips promedio:       6.23
+  Pips máximo:     220.70
+
+TENDENCIAS BAJISTAS:
+  Total: 74,615
+  Longitud promedio: 4.3 velas
+  Longitud mediana:   4 velas
+  Pips promedio :       6.25
+  Pips máximo:       160.70
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas |   Bajistas
+-------------+-------------+-----------
+  2-3         |     32,935 |     33,368  ***** Cambiar 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+  4-6         |     31,541 |     30,962
+  7-10       |       9,027 |      8,579
+ 11-15      |       1,587 |      1,499
+ 16-20      |         191  |         182
+ 21-50      |           18  |           25
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M1 HT10
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total:  66,591
+  Longitud promedio: 4.9 velas
+  Longitud mediana:   4 velas
+  Pips promedio:         7.09
+  Pips máximo:        208.30
+
+TENDENCIAS BAJISTAS:
+  Total:  66,088
+  Longitud promedio:  4.9 velas
+  Longitud mediana:    4 velas
+  Pips promedio:         7.13
+  Pips máximo:        160.70
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas |   Bajistas
+-------------+-------------+--------------
+    2-3      |     24,101 |     24,433
+    4-6      |     28,020 |     27,762  ***** Cambiar 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+    7-10    |     11,458 |     10,969
+ 11-15     |       2,604 |       2,532
+ 16-20     |         358  |          343
+ 21-50     |           50  |            49
+
+────────────────────────────────────────────────────────────────────
+MODA ESTADÍSTICA - M1
+────────────────────────────────────────────────────────────────────
+
+VALORES MÁS FRECUENTES (MODA):
+  Tamaño vela: 0.6 pips
+  Mecha superior: 0.0 pips
+  Mecha inferior: 0.0 pips
+  Velas consecutivas: 1
+
+FRECUENCIA MODA:
+  Tamaño 0.6p aparece:      42,012 veces (6.0%)
+  1 consecutivas aparece: 346,425 veces (49.7%)
+
+
+====================================================================================
+TIMEFRAME: M5
+====================================================================================
+
+────────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M5 PERÍODO 7
+────────────────────────────────────────────────────────────────────
+
+Total velas neutras: 120
+
+Origen vela neutra:
+  Después de vela alcista: 53 (44.2%)
+  Después de vela bajista: 67 (55.8%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 49 (40.8%)
+  Bajista: 71 (59.2%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 18 (34.0%)
+  Revierte bajista: 35 (66.0%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 31 (46.3%)
+  Continúa bajista: 36 (53.7%)
+
+────────────────────────────────────────────────────────────────────ANÁLISIS HULTREND NEUTRO - M5 PERÍODO 10
+────────────────────────────────────────────────────────────────────
+Total velas neutras: 42
+
+Origen vela neutra:
+  Después de vela alcista: 19 (45.2%)
+  Después de vela bajista: 23 (54.8%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 19 (45.2%)
+  Bajista: 23 (54.8%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista:  6 (31.6%)
+  Revierte bajista: 13 (68.4%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista:  13 (56.5%)
+  Continúa bajista: 10 (43.5%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS CONSOLIDACIONES - M5
+───────────────────────────────────────────────────────────────────
+
+Promedio tamaño vela: 2.69 pips
+Umbral consolidación:  1.88 pips  (70% del promedio)
+Velas pequeñas:       309,892 (44.5%)
+
+Consolidaciones de 3 + velas: 26,216  *******    Detallar: +3v , +4v, +5v, +6v, +7v, +8v, +9v, 10v
+
+Dirección ROMPIMIENTO:
+  Alcista: 12,997 (49.6%)
+  Bajista: 13,219 (50.4%)
+
+Consolidación durante HullTrend ALCISTA → Rompe:
+  Alcista: 6,729 (49.9%)
+  Bajista: 6,761 (50.1%)
+
+Consolidación durante HullTrend BAJISTA → Rompe:
+  Alcista: 6,265 (49.2%)
+  Bajista: 6,458 (50.8%)
+
+Tamaño promedio vela rompimiento: 2.38 pips (0.9 x promedio)
+
+───────────────────────────────────────────────────────────────────
+RACHAS ESPECÍFICAS - M5
+───────────────────────────────────────────────────────────────────
+
+    Rango Velas |   Cantidad |   Porcentaje
+----------------+------------+-------------
+         13   velas |         80 |        0.01%  ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+         15   velas |         23 |        0.00%
+    20-25  velas |            0 |        0.00%
+    26-30  velas |            0 |        0.00%
+   31-100 velas |            0 |        0.00%
+
+────────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 7 - M5
+────────────────────────────────────────────────────────────────────    
+Rango |   Cantidad |       % |  Pips Prom |   Pips Med |   Pips Max
+----------+---------------+---------+------------+------------+-----------
+     2 -3  |    283,387 |   40.7% |     20.27p |      15.60p |    408.30p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13+
+     2 -4  |    371,593 |   53.3% |     26.57p |      19.90p |    498.20p
+     2 -5  |    424,529 |   60.9% |     30.51p |      21.80p |    605.70p
+     2 -6  |    458,326 |   65.8% |     32.98p |      22.60p |    605.70p
+     2 -7  |    479,944 |   68.9% |     34.61p |      23.00p |    605.70p
+     3 -4  |    211,494 |   30.4% |     23.46p |      17.30p |    635.80p
+     3 -5  |    264,430 |   38.0% |     29.56p |      21.10p |    781.30p
+     3 -6  |    298,227 |   42.8% |     33.41p |      22.90p |    781.30p
+     3 -7  |    319,845 |   45.9% |     35.92p |      23.60p |    792.40p
+     4 -5  |    141,142 |   20.3% |     24.45p |      17.00p |    492.80p
+     4 -6  |    174,939 |   25.1% |     30.37p |      20.50p |    679.80p
+     4 -7  |    196,557 |   28.2% |     34.25p |      21.80p |    904.10p
+     7-10 |      49,715 |     7.1% |     44.35p |      28.30p |    641.70p
+   11-15 |        8,345 |     1.2% |     56.92p |      34.00p |    759.20p
+   16-20 |           781 |     0.1% |     57.50p |      29.90p |    227.10p
+   21-25 |           121 |     0.0% |     49.57p |      32.70p |    137.50p
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 10 - M5
+───────────────────────────────────────────────────────────────────
+
+ Rango |   Cantidad |       % |  Pips Prom |   Pips Med |   Pips Max
+ ---------+---------------+-----------+-------------+----------------+-----------
+      2-3 |    254,016  |   36.5% |     20.69p |      16.00p   |    408.30p  ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12,13+
+      2-4 |    342,676  |   49.2% |     27.90p |     21.30p    |    498.20p
+      2-5 |    408,838  |   58.7% |     33.33p |     24.70p    |    660.80p
+      2-6 |    452,285  |   64.9% |     36.93p |     26.30p    |    673.60p
+      2-7 |    481,622  |   69.1% |     39.40p |     27.10p    |    673.60p
+      3-4 |    200,853  |   28.8% |     24.48p |     18.60p    |    637.30p
+      3-5 |    267,015  |   38.3% |     32.59p |     24.50p    |    849.40p
+      3-6 |    310,462  |   44.6% |     37.98p |     27.70p    |    917.40p
+      3-7 |    339,799  |   48.8% |     41.68p |     29.30p    |   1141.70p
+      4-5 |    154,822  |   22.2% |     25.99p |     19.00p    |    410.60p
+      4-6 |    198,269  |   28.5% |     33.38p |     23.90p    |    597.60p
+      4-7  |   227,606  |   32.7% |     38.47p |     26.70p    |    821.90p
+     7-10 |     70,690  |   10.1% |     43.59p |     27.30p    |    780.40p
+   11-15 |     14,970  |     2.1% |     57.25p |     34.80p    |    835.90p
+   16-20 |       1,774  |     0.3% |     58.18p |     36.45p    |    296.00p
+   21-25 |          270  |      0.0% |    41.88p |     25.35p    |    172.80p
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M5 HT7
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 33,720
+  Longitud promedio: 10.1 velas
+  Longitud mediana:     7 velas
+  Pips promedio:       26.91
+  Pips máximo:      1086.40
+
+TENDENCIAS BAJISTAS:
+  Total: 33,274
+  Longitud promedio: 9.9 velas
+  Longitud mediana:   7    velas
+  Pips promedio:       27.14
+  Pips máximo:       715.00
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas   |   Bajistas
+  ------------+--------------+-------------
+   2-3         |     10,047  |      9,851
+   4-6         |       6,251  |      6,425   ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12,13+
+   7-10       |      4,775   |      4,632
+ 11-15       |      4,575   |      4,645
+ 16-20       |      4,010   |      3,868
+ 21-50        |     3,990   |      3,793
+
+────────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M5 HT10
+────────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 29,663
+  Longitud promedio: 11.5 velas
+  Longitud mediana:    7     velas
+  Pips promedio:      30.62
+  Pips máximo:     1177.40
+
+TENDENCIAS BAJISTAS:
+  Total: 29,531
+  Longitud promedio: 11.2 velas
+  Longitud mediana:    7     velas
+  Pips promedio:       30.73
+  Pips máximo:      1025.00
+
+DISTRIBUCIÓN POR LONGITUD:
+
+    Rango |   Alcistas  |   Bajistas
+------------+--------------+-----------
+   2-3       |      8,745   |      8,815  ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+   4-6       |      5,325   |      5,466    
+   7-10     |      3,815   |      3,755
+ 11-15     |      3,233   |      3,236
+ 16-20     |      2,750   |      2,722
+ 21-50     |      5,594   |      5,363
+
+───────────────────────────────────────────────────────────────────
+MODA ESTADÍSTICA - M5
+───────────────────────────────────────────────────────────────────
+
+VALORES MÁS FRECUENTES (MODA):
+  Tamaño vela:      1.1 pips
+  Mecha superior: 0.0 pips
+  Mecha inferior:   0.0 pips
+  Velas consecutivas: 1
+
+FRECUENCIA MODA:
+  Tamaño 1.1p aparece:       23,987 veces (3.4%)
+  1 consecutivas aparece: 347,177 veces (49.8%)
+
+
+===================================================================================
+TIMEFRAME: M15
+===================================================================================
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M15 PERÍODO 7
+───────────────────────────────────────────────────────────────────
+Total velas neutras: 29
+
+Origen vela neutra:
+  Después de vela alcista: 16 (55.2%)
+  Después de vela bajista: 13 (44.8%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 10 (34.5%)
+  Bajista: 19 (65.5%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 2 (12.5%)
+  Revierte bajista: 14 (87.5%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 8 (61.5%)
+  Continúa bajista: 5 (38.5%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M15 PERÍODO 10
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 36
+
+Origen vela neutra:
+  Después de vela alcista: 19 (52.8%)
+  Después de vela bajista: 17 (47.2%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 19 (52.8%)
+  Bajista: 17 (47.2%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 12 (63.2%)
+  Revierte bajista: 7 (36.8%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 7 (41.2%)
+  Continúa bajista: 10 (58.8%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS CONSOLIDACIONES - M15
+───────────────────────────────────────────────────────────────────
+
+Promedio tamaño vela: 4.76 pips
+Umbral consolidación:  3.33 pips (70% del promedio)
+Velas pequeñas:        330,277 (47.4%)
+
+Consolidaciones de 3+ velas: 20,886   *******    Detallar:*****   2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+
+Dirección ROMPIMIENTO:
+  Alcista: 10,332 (49.5%)
+  Bajista: 10,554 (50.5%)
+
+Consolidación durante HullTrend ALCISTA → Rompe:
+  Alcista: 5,005 (48.9%)
+  Bajista: 5,222 (51.1%)
+
+Consolidación durante HullTrend BAJISTA → Rompe:
+  Alcista: 5,327 (50.0%)
+  Bajista: 5,330 (50.0%)
+
+Tamaño promedio vela rompimiento: 4.00 pips (0.8x promedio)
+
+───────────────────────────────────────────────────────────────────
+RACHAS ESPECÍFICAS - M15
+───────────────────────────────────────────────────────────────────
+
+    Rango Velas |   Cantidad  |   Porcentaje
+   -------------------+---------------+------------------
+         13    velas |         24       |        0.00%       ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+         15    velas |         12       |        0.00%
+    20-25   velas |          0        |        0.00%
+    26-30   velas |          0        |        0.00%
+   31-100  velas |          0        |        0.00%
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 7 - M15
+───────────────────────────────────────────────────────────────────
+
+ Rango |   Cantidad |       %     |  Pips Prom |   Pips Med |   Pips Max
+----------+---------------+-----------+----------------+----------------+---------------
+     2-3   |    285,059 |   40.9% |     97.35p    |       73.00p   |   1839.30p  ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13+
+     2-4   |    372,470 |   53.5% |    127.58p   |       92.60p   |   2740.40p
+     2-5   |    424,359 |   60.9% |    146.37p   |     101.00p   |   3181.70p
+     2-6   |    457,211 |   65.6% |    158.37p   |     103.90p   |   3388.70p
+     2-7   |    478,245 |   68.7% |    165.95p   |     104.60p   |   3561.00p   
+     3-4   |    210,355 |   30.2% |    118.90p   |       83.90p   |   2136.50p
+     3-5   |    262,244 |   37.6% |    149.60p   |    101.30p   |   2478.90p
+     3-6   |    295,096 |   42.4% |    169.17p   |    108.30p   |   2526.90p
+     3-7   |    316,130 |   45.4% |    181.59p   |     111.60p   |  2938.70p
+     4-5   |    139,300 |   20.0% |    123.52p   |       81.90p   |  2028.30p
+     4-6   |    172,152 |   24.7% |    153.76p   |       98.00p   |  2067.70p
+     4-7   |    193,186 |   27.7% |    172.90p   |     104.60p   |  2222.80p
+     7-10 |      47,972 |     6.9% |    212.94p   |     129.70p   |  2571.90p
+   11-15 |        7,706 |     1.1% |    234.43p   |     125.30p   |  1745.90p
+   16-20 |           848 |     0.1% |    293.20p   |       90.00p    | 1424.00p
+   21-25 |             94 |     0.0% |    245.90p   |       39.80p    |   684.30p
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 10 - M15
+───────────────────────────────────────────────────────────────────
+ Rango |   Cantidad |       %     |  Pips Prom |   Pips Med |   Pips Max
+----------+---------------+-----------+----------------+----------------+---------------
+     2-3   |    256,467 |   36.8% |     99.25p     |      75.20p   |   2050.70p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13+
+     2-4   |    345,022 |   49.5% |    133.72p    |     99.30p    |   2428.90p
+     2-5   |    410,772 |   59.0% |    159.65p    |    112.60p   |   2797.90p
+     2-6   |    453,607 |   65.1% |    177.20p    |    118.05p   |   3271.20p
+     2-7   |    482,838 |   69.3% |    189.27p    |    120.60p   |   3433.00p   
+     3-4   |    201,420 |   28.9% |    124.60p    |      91.60p   |   2136.50p
+     3-5   |    267,170 |   38.4% |    165.81p    |    120.70p   |   2773.50p
+     3-6   |    310,005 |   44.5% |    193.70p    |    136.60p   |   2948.30p
+     3-7   |    339,236 |   48.7% |    212.88p    |    144.30p   |   3126.30p
+     4-5   |    154,305 |   22.2% |    131.92p    |      94.20p   |   2594.10p
+     4-6   |    197,140 |   28.3% |    170.24p    |    117.60p   |   2785.90p
+     4-7   |    226,371 |   32.5% |    196.58p    |    132.30p   |   2981.10p
+    7-10  |      69,595 |   10.0% |    216.44p    |    136.30p   |   2728.70p
+   11-15 |      12,951 |     1.9% |    256.58p    |    142.65p   |   1775.80p
+   16-20 |        1,375 |     0.2% |    280.67p    |    143.50p   |   2398.80p
+   21-25 |             91 |     0.0% |     193.15p    |     28.45p    |     702.40p
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M15 HT7
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 19,512
+  Longitud promedio: 17.1 velas
+  Longitud mediana:     8    velas
+  Pips promedio:        81.32
+  Pips máximo:      3647.30
+
+TENDENCIAS BAJISTAS:
+  Total: 19,497
+  Longitud promedio: 17.8 velas
+  Longitud mediana:     8    velas
+  Pips promedio:        85.49
+  Pips máximo:      3417.40
+
+DISTRIBUCIÓN POR LONGITUD:  
+
+     Rango |   Alcistas   |   Bajistas
+   -----------+--------------+---------------
+    2-3        |      5,555    |      5,485     ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+    4-6        |      3,497    |      3,401
+   7-10       |      2,260    |      2,305
+ 11-15       |      1,891    |      1,786
+ 16-20       |      1,011    |      1,001
+ 21-50       |      3,533    |      3,567
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M15 HT10
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 17,280
+  Longitud promedio: 19.4 velas
+  Longitud mediana:     8    velas
+  Pips promedio:        92.29 
+  Pips máximo:       3685.70
+
+TENDENCIAS  BAJISTAS:
+  Total: 17,366
+  Longitud promedio: 20.0 velas
+  Longitud mediana:     8    velas
+  Pips promedio:        95.71
+  Pips máximo:      3669.50
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas   |   Bajistas
+  ------------+--------------+-----------
+   2-3        |      4,885    |      4,846
+   4-6        |      3,018    |      3,139  ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+   7-10     |       2,059    |      1,989
+ 11-15     |       1,576    |      1,566
+ 16-20     |          870    |         868
+ 21-50     |       2,681    |      2,631
+
+───────────────────────────────────────────────────────────────────
+MODA ESTADÍSTICA - M15
+───────────────────────────────────────────────────────────────────
+
+VALORES MÁS FRECUENTES (MODA):
+  Tamaño vela:       2.1 pips
+  Mecha superior: 0.0 pips
+  Mecha inferior:   0.0 pips
+  Velas consecutivas: 1
+
+FRECUENCIA MODA:
+  Tamaño 2.1p  aparece:      14,181 veces (2.0%)
+  1 consecutivas aparece: 353,374 veces (50.7%)
+
+
+==================================================================================
+TIMEFRAME: M30
+==================================================================================
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M30 PERÍODO 7
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 37
+
+Origen vela neutra:
+  Después de vela alcista:  20 (54.1%)
+  Después de vela bajista: 17 (45.9%)
+
+Dirección SIGUIENTE vela:
+  Alcista:   12 (32.4%)
+  Bajista:  25 (67.6%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 3 (15.0%)
+  Revierte bajista: 17 (85.0%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 9 (52.9%)
+  Continúa bajista: 8 (47.1%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - M30 PERÍODO 10
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 28
+
+Origen vela neutra:
+  Después de vela alcista: 9 (32.1%)
+  Después de vela bajista: 19 (67.9%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 12 (42.9%)
+  Bajista: 16 (57.1%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 4 (44.4%)
+  Revierte bajista: 5 (55.6%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 8 (42.1%)
+  Continúa bajista: 11 (57.9%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS CONSOLIDACIONES - M30
+───────────────────────────────────────────────────────────────────
+
+Promedio tamaño vela: 6.48 pips
+Umbral consolidación:   4.54 pips (70% del promedio)
+Velas pequeñas:        321,204 (46.1%)
+
+Consolidaciones de 3+ velas: 13,892 ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+
+Dirección ROMPIMIENTO:
+  Alcista: 6,992 (50.3%)
+  Bajista: 6,900 (49.7%)
+
+Consolidación durante HullTrend ALCISTA → Rompe:
+  Alcista: 3,485 (49.5%)
+  Bajista: 3,553 (50.5%)
+
+Consolidación durante HullTrend BAJISTA → Rompe:
+  Alcista: 3,507 (51.2%)
+  Bajista: 3,347 (48.8%)
+
+Tamaño promedio vela rompimiento: 5.26 pips (0.8x promedio)
+
+───────────────────────────────────────────────────────────────────
+RACHAS ESPECÍFICAS - M30
+───────────────────────────────────────────────────────────────────
+
+    Rango Velas |   Cantidad |   Porcentaje
+   -------------------+------------+-------------
+          13 velas  |         47 |        0.01%       ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+          15 velas  |          0 |        0.00%
+    20-25 velas  |          0 |        0.00%
+    26-30 velas  |          0 |        0.00%
+   31-100 velas |          0 |        0.00%
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 7 - M30
+───────────────────────────────────────────────────────────────────
+
+ Rango |   Cantidad |       %      |  Pips Prom |   Pips Med  |   Pips Max
+----------+---------------+------------+----------------+----------------+-----------
+     2-3  |    288,752 |   41.5%   |    261.76p   |     202.70p  |   3491.50p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13+
+     2-4  |    378,850 |   54.4%   |    344.49p   |    253.70p   |   4429.60p
+     2-5  |    431,513 |   61.9%   |    395.20p   |    275.30p   |   6252.00p
+     2-6  |    464,327 |   66.7%   |    427.50p   |    282.80p   |   6999.10p
+     2-7  |    485,276 |   69.7%   |    448.40p   |    284.20p   |   7283.70p 
+     3-4  |    214,732 |   30.8%   |    325.22p   |    241.10p   |   3247.90p
+     3-5  |    267,395 |   38.4%   |    409.41p   |    295.20p   |   4718.20p
+     3-6  |    300,209 |   43.1%   |    463.03p   |    317.60p   |   6377.40p
+     3-7  |    321,158 |   46.1%   |    497.72p   |    325.30p   |   6883.80p
+     4-5  |    142,761 |   20.5%   |    330.25p   |    239.10p   |   4274.50p
+     4-6  |    175,575 |   25.2%   |    410.18p   |    276.90p   |   6708.30p
+     4-7  |    196,524 |   28.2%   |    461.91p   |    294.40p   |   7214.70p
+    7-10 |      45,557 |     6.5%   |    572.83p   |    335.55p   |   5826.40p
+  11-15 |        7,360 |     1.1%   |    734.63p   |    376.25p   |   3097.20p
+  16-20 |           395 |     0.1%   |    569.13p   |    452.80p   |   1322.60p
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 10 - M30
+───────────────────────────────────────────────────────────────────
+
+   Rango |   Cantidad |       %   |  Pips Prom |   Pips Med |   Pips Max
+  ----------+---------------+----------+----------------+---------------+----------------
+     2-3    |    259,336 |   37.2% |    267.72p   |    208.20p |   3491.50p ****** Cambiar escala 2-3, 3-4, 4-5, 5-6, 6-7, 7-8,  8-9, 10-11, 11-12, 13+
+     2-4    |    349,086 |   50.1% |    360.60p   |    276.20p |   4718.20p
+     2-5    |    416,326 |   59.8% |    431.14p   |    317.00p |   5793.70p
+     2-6    |    459,532 |   66.0% |    478.30p   |    332.80p |   6326.70p
+     2-7    |    488,663 |   70.2% |    509.40p   |    341.90p |   6690.00p
+     3-4    |    204,113 |   29.3% |    340.48p   |    260.30p |   3849.00p
+     3-5    |    271,353 |   39.0% |    454.02p   |    343.10p |   4924.50p
+     3-6    |    314,559 |   45.2% |    529.93p   |    386.80p |   6690.70p
+     3-7    |    343,690 |   49.3% |    580.00p   |    411.90p |   7360.90p
+     4-5    |    156,990 |   22.5% |    358.39p   |    268.80p |   3181.00p
+     4-6    |    200,196 |   28.7% |    461.80p   |    335.20p |   5399.30p
+     4-7    |    229,327 |   32.9% |    530.00p   |    372.10p |   9199.10p
+     7-10  |      68,432 |     9.8% |    569.63p   |    381.60p |   9298.40p
+   11-15  |      13,435 |     1.9% |    740.37p   |    403.00p |   5442.00p
+   16-20 |         1,105 |     0.2% |    721.22p   |    599.80p |   1856.90p
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M30 HT7
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 13,990
+  Longitud promedio: 25.1 velas
+  Longitud mediana:     8    velas
+  Pips promedio:      160.95
+  Pips máximo:      7138.30
+
+TENDENCIAS BAJISTAS:
+  Total: 13,798
+  Longitud promedio: 24.2 velas
+  Longitud mediana:     8    velas
+  Pips promedio:      159.74
+  Pips máximo:       5061.20
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas |   Bajistas
+-------------+----- -------+---------------
+    2-3       |      3,920  |      3,877         ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+    4-6       |      2,428  |      2,480
+   7-10      |      1,509  |      1,543
+ 11-15      |      1,129  |      1,091
+ 16-20      |         688  |        705
+ 21-50      |      1,981  |      1,883
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - M30 HT10
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 12,131
+  Longitud promedio:  29.1 velas
+  Longitud mediana:      8    velas
+  Pips promedio:       185.68
+  Pips máximo:        8201.20
+
+TENDENCIAS BAJISTAS:
+  Total: 12,022
+  Longitud promedio:  27.8 velas
+  Longitud mediana:      8    velas
+  Pips promedio:       183.77
+  Pips máximo:       6950.20
+
+DISTRIBUCIÓN POR LONGITUD:
+
+  Rango  |   Alcistas   |   Bajistas
+------------+--------------+-----------
+   2-3       |      3,381   |      3,453      ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+   4-6       |      2,079   |      2,023
+   7-10     |      1,358   |      1,337
+ 11-15     |         920   |          936
+ 16-20     |         583   |          599
+ 21-50     |      1,586  |       1,552
+
+───────────────────────────────────────────────────────────────────
+MODA ESTADÍSTICA - M30
+───────────────────────────────────────────────────────────────────
+
+VALORES MÁS FRECUENTES (MODA):
+  Tamaño vela:       2.7 pips
+  Mecha superior: 0.0 pips
+  Mecha inferior:   0.0 pips
+  Velas consecutivas: 1
+
+FRECUENCIA MODA:
+  Tamaño 2.7p   aparece:    10,098 veces (1.4%)
+  1 consecutivas aparece: 356,809 veces (51.2%) 
+
+
+===================================================================================
+TIMEFRAME: H1
+===================================================================================
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - H1 PERÍODO 7
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 14
+
+Origen vela neutra:
+  Después de vela alcista: 6 (42.9%)
+  Después de vela bajista: 8 (57.1%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 8 (57.1%)
+  Bajista: 6 (42.9%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 1 (16.7%)
+  Revierte bajista: 5 (83.3%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 7 (87.5%)
+  Continúa bajista: 1 (12.5%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS HULTREND NEUTRO - H1 PERÍODO 10
+───────────────────────────────────────────────────────────────────
+
+Total velas neutras: 9
+
+Origen vela neutra:
+  Después de vela alcista: 4 (44.4%)
+  Después de vela bajista: 5 (55.6%)
+
+Dirección SIGUIENTE vela:
+  Alcista: 4 (44.4%)
+  Bajista: 5 (55.6%)
+
+NEUTRO después de ALCISTA → Siguiente vela:
+  Continúa alcista: 1 (25.0%)
+  Revierte bajista: 3 (75.0%)
+
+NEUTRO después de BAJISTA → Siguiente vela:
+  Revierte alcista: 3 (60.0%)
+  Continúa bajista: 2 (40.0%)
+
+───────────────────────────────────────────────────────────────────
+ANÁLISIS CONSOLIDACIONES - H1
+───────────────────────────────────────────────────────────────────
+
+Promedio tamaño vela:    9.16 pips
+Umbral consolidación:      6.41 pips (70% del promedio)
+Velas pequeñas:           316,499 (45.4%)
+
+Consolidaciones de 3+ velas: 8,084 ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+Dirección ROMPIMIENTO:
+  Alcista: 4,089 (50.6%)
+  Bajista: 3,994 (49.4%)
+
+Consolidación durante HullTrend ALCISTA → Rompe:
+  Alcista: 2,114 (51.1%)
+  Bajista: 2,024 (48.9%)
+
+Consolidación durante HullTrend BAJISTA → Rompe:
+  Alcista: 1,975 (50.1%)
+  Bajista: 1,970 (49.9%)
+
+Tamaño promedio vela rompimiento: 7.27 pips (0.8x promedio)
+
+───────────────────────────────────────────────────────────────────
+RACHAS ESPECÍFICAS - H1
+───────────────────────────────────────────────────────────────────
+
+    Rango Velas |   Cantidad |   Porcentaje
+----------------+------------+-------------
+       13 velas |         44 |        0.01%
+       15 velas |          0 |        0.00%
+    20-25 velas |          0 |        0.00%
+    26-30 velas |          0 |        0.00%
+   31-100 velas |          0 |        0.00%
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 7 - H1
+───────────────────────────────────────────────────────────────────
+
+   Rango |   Cantidad |       % |  Pips Prom |   Pips Med |   Pips Max
+---------+------------+---------+------------+------------+-----------
+     2-3 |    288,465 |   41.4% |    752.10p |     595.00p |   7575.80p ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+     2-4 |    380,065 |   54.6% |    990.55p |    760.30p |   8493.40p
+     2-5 |    433,687 |   62.3% |   1133.91p |    839.60p |   9677.80p
+     2-6 |    467,662 |   67.1% |   1226.51p |    865.20p |  13764.70p
+     2-7 |    488,758 |   70.2% |   1286.19p |    871.00p |  15850.90p
+     3-4 |    216,712 |   31.1% |    920.22p |    723.10p |   6553.60p
+     3-5 |    270,334 |   38.8% |   1152.30p |    866.65p |   8741.10p
+     3-6 |    304,309 |   43.7% |   1302.21p |    932.95p |  12064.80p
+     3-7 |    325,405 |   46.7% |   1398.82p |    972.25p |  14151.00p
+     4-5 |    145,222 |   20.8% |    915.52p |    691.50p |   7751.20p
+     4-6 |    179,197 |   25.7% |   1137.56p |    832.60p |  10810.10p
+     4-7 |    200,293 |   28.8% |   1280.65p |    885.25p |  12896.30p
+    7-10 |     47,530 |    6.8% |   1653.93p |   1184.20p |  13541.50p
+   11-15 |      6,246 |    0.9% |   1821.50p |    959.40p |  18915.50p
+   16-20 |        506 |    0.1% |   1544.63p |   1794.00p |   2169.80p
+   21-25 |          1 |    0.0% |      2.20p |      2.20p |      2.20p
+
+───────────────────────────────────────────────────────────────────
+AGRUPACIONES VELAS EN TENDENCIA HULTREND 10 - H1
+───────────────────────────────────────────────────────────────────
+
+   Rango |   Cantidad |       % |  Pips Prom |   Pips Med |   Pips Max
+---------+------------+---------+------------+------------+-----------
+     2-3 |    255,932 |   36.7% |    784.68p |    619.40p |   7575.80p  ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+     2-4 |    348,036 |   50.0% |   1059.91p |    841.60p |   8493.40p
+     2-5 |    417,130 |   59.9% |   1260.96p |    984.05p |   9873.80p
+     2-6 |    462,431 |   66.4% |   1396.85p |   1060.15p |  13764.70p
+     2-7 |    491,880 |   70.6% |   1490.22p |   1089.60p |  15850.90p
+     3-4 |    206,319 |   29.6% |    986.85p |    814.00p |   6692.70p
+     3-5 |    275,413 |   39.5% |   1303.67p |   1057.50p |   9633.70p
+     3-6 |    320,714 |   46.0% |   1517.79p |   1200.15p |  14801.00p
+     3-7 |    350,163 |   50.3% |   1664.92p |   1269.65p |  16887.20p
+     4-5 |    161,198 |   23.1% |   1010.04p |    796.50p |  10648.20p
+     4-6 |    206,499 |   29.6% |   1298.05p |    976.90p |  13347.10p
+     4-7 |    235,948 |   33.9% |   1495.96p |   1122.65p |  15073.30p
+    7-10 |     69,376 |   10.0% |   1507.08p |    998.15p |  13444.80p
+   11-15 |     13,843 |    2.0% |   1810.91p |   1118.80p |  17911.40p
+   16-20 |      1,230 |    0.2% |   5219.87p |   1587.90p |  13156.60p
+   21-25 |         58 |    0.0% |   1829.10p |   1829.10p |   1829.10p
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - H1 HT7
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 9,540
+  Longitud promedio: 37.3 velas
+  Longitud mediana: 8 velas
+  Pips promedio: 338.05
+  Pips máximo: 22368.30
+
+TENDENCIAS BAJISTAS:
+  Total: 9,362
+  Longitud promedio: 35.6 velas
+  Longitud mediana: 8 velas
+  Pips promedio: 330.88
+  Pips máximo: 11776.10
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas |   Bajistas
+-----------+------------+-----------
+  2-3      |      2,650 |      2,675 ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+  4-6      |      1,565 |      1,609
+  7-10     |      1,084 |        984
+ 11-15     |        676 |        703
+ 16-20     |        451 |        458
+ 21-50     |      1,223 |      1,163
+
+───────────────────────────────────────────────────────────────────
+TENDENCIAS CON RETROCESOS - H1 HT10
+───────────────────────────────────────────────────────────────────
+
+TENDENCIAS ALCISTAS:
+  Total: 8,470
+  Longitud promedio: 42.0 velas
+  Longitud mediana: 8 velas
+  Pips promedio: 381.01
+  Pips máximo: 22441.70
+
+TENDENCIAS BAJISTAS:
+  Total: 8,279
+  Longitud promedio: 40.4 velas
+  Longitud mediana: 8 velas
+  Pips promedio: 374.33
+  Pips máximo: 13372.10
+
+DISTRIBUCIÓN POR LONGITUD:
+
+     Rango |   Alcistas |   Bajistas
+-----------+------------+-----------
+  2-3      |      2,401 |      2,335   ***** Cambiar 2-3, 3-4, 4-5, 5-6,  6-7, 7-8, 8-9, 9-10, 10-11, 11-12, 13+
+  4-6      |      1,459 |      1,451
+  7-10     |        900 |        911
+ 11-15     |        601 |        627
+ 16-20     |        396 |        377
+ 21-50     |      1,079 |        996
+
+───────────────────────────────────────────────────────────────────
+MODA ESTADÍSTICA - H1
+───────────────────────────────────────────────────────────────────
+
+VALORES MÁS FRECUENTES (MODA):
+  Tamaño vela: 3.6 pips
+  Mecha superior: 0.0 pips
+  Mecha inferior: 0.0 pips
+  Velas consecutivas: 1
+
+FRECUENCIA MODA:
+  Tamaño 3.6p aparece: 7,297 veces (1.0%)
+  1 consecutivas aparece: 353,009 veces (50.7%)
+
+
+===================================================================================
+FIN INFORME MEJORADO
+===================================================================================
